@@ -1,4 +1,4 @@
-
+#Selection sort
 def sort(nums):
     for i in range (5):  # min value low to high index  max value high to low index
         minpos = i # which holds min position
